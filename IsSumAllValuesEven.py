@@ -8,6 +8,7 @@ def isSumAllValuesEven(mat):
         return True
     else:
         return False
+    
 mat=[[1,1,1],[2,2,2]]
 res = isSumAllValuesEven(mat)
 print (res) 
